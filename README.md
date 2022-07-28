@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.6.
 
+##Información de la aplicación:
+
+Esta aplicación permitirá al usuario llevar un registro de las vacunas que se le han aplicado a sus mascotas, también tendrá recordatorios en los que avisará cuando es la proxima vacuna y demás.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
